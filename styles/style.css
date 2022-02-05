@@ -73,9 +73,6 @@
   z-index: 0; 
 }
 
-.content {
-}
-
 .description {
   display: flex;
   justify-content: center;
@@ -332,9 +329,6 @@
   flex-direction: column;
 }
 
-.footer__column_content_info {
-}
-
 .footer__column-heading {
   margin: 0;
   padding: 0;
@@ -349,9 +343,6 @@
   list-style: none;
   margin: 20px 0 16px 0;
   padding: 0;
-}
-
-.footer__column_content_social {
 }
 
 .footer__column-link {
